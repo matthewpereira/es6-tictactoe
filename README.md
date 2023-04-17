@@ -3,12 +3,12 @@
 ## Setup
 
 1. From the command line, clone the repo to a directory with `git clone https://github.com/matthewpereira/es6-tictactoe.git`
-2. Run `yarn`
-3. Run `yarn start`
+2. Run `npm install`
+3. Run `npm run start`
 
 ## Tests
 
-1. Run `yarn test`
+1. Run `npm run test`
 
 ## Todo
 
