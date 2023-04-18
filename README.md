@@ -3,8 +3,9 @@
 ## Setup
 
 1. From the command line, clone the repo to a directory with `git clone https://github.com/matthewpereira/es6-tictactoe.git`
-2. Run `npm install`
-3. Run `npm run start`
+2. Navigate into your new directory with `cd es6-tictactoe`
+3. Run `npm install`
+4. Run `npm run start`
 
 ## Tests
 
